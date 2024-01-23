@@ -1,4 +1,4 @@
-/*
+ /*
  * Vencord, a modification for Discord's desktop app
  * Copyright (c) 2022 Vendicated and contributors
  *
@@ -75,7 +75,8 @@ export const defaultRules = [
     "siteId",
     "mc_cid",
     "mc_eid",
-    "pk_*",
+    "pk_*", 
+    "pw_*",
     "sc_campaign",
     "sc_channel",
     "sc_content",
@@ -150,6 +151,7 @@ export const defaultRules = [
     "utm_content",
     "utm_medium",
     "utm_campaign",
+    "
     "utm_term",
     "si@open.spotify.com",
     "igshid",
